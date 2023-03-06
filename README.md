@@ -9,4 +9,5 @@
   + Final Thoughts
   
 -The Contents of this repo are as follows:
-  +A
+  + E 115 - Introduction to Coding - Fall 2020
+  + E
